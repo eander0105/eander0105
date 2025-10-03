@@ -30,9 +30,7 @@ I love FOSS, trying to get up some curage to start contributing myself.
 
 ### Nerdy stuff
 
-My beloved SSF PC <3
-
-lillagron:
+lillagron: (My beloved SSF PC <3)
  - Case: FD - Terra (Jade green)
  - CPU: 7800X3D
  - GPU: AMD 7800 XT
