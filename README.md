@@ -45,5 +45,5 @@ sourcecode and 3D files for my keyboards along with some simple README :)
 ### Non computer stuff
 
 If I'm not programming or slaying dragons (in game) I'm probably
-out climbing or grabbing a beer with friends and loved ones
+out climbing rocks, hiking or grabbing a beer with friends and loved ones
 
