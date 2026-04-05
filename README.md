@@ -20,17 +20,17 @@ Have a look, but not too close..
 
 ### About me
 
-I'm a software developer, currently at [Zoezi AB](https://zoezi.se).
-At Zoezi I mostly work in Vue(2 & 3), Python and some React Native here and there.
+I'm a software developer, currently at [Husfoto](https://husfoto.se).
+My day to day techstack is primarily [Myra](https://github.com/jhdrn/myra) for frontend and Golang as language of choise for backend.
 
 Whilst not working I perfer Svelte for frontend work and Go
 for pretty much everything else :)
 
-I love FOSS, trying to get up some curage to start contributing myself.
+I love FOSS, trying to gather some curage and find time to start contributing myself.
 
 ### Nerdy stuff
 
-lillagron: (My beloved SSF PC <3)
+lillagron:
  - Case: FD - Terra (Jade green)
  - CPU: 7800X3D
  - GPU: AMD 7800 XT
