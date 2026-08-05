@@ -20,13 +20,10 @@ Have a look, but not too close..
 
 ### About me
 
-I'm a software developer, currently at [Husfoto](https://husfoto.se).
-My day to day techstack is primarily [Myra](https://github.com/jhdrn/myra) for frontend and Golang as language of choise for backend.
-
-Whilst not working I perfer Svelte for frontend work and Go
+Whilst not working I prefer Svelte for frontend work and Go
 for pretty much everything else :)
 
-I love FOSS, trying to gather some curage and find time to start contributing myself.
+I love FOSS, trying to gather some courage and find time to start contributing myself.
 
 ### Nerdy stuff
 
@@ -38,9 +35,9 @@ lillagron:
  - Editor: VsCode (shigh, looking to replace this)
 
 keyboard:
-I make my own keyboards. 3D printed & handwired.
+I make my own keyboards. 3D printed & hardwired.
 Checkout my [e-kb repo](https://github.com/eander0105/e-kb) where I publish
-sourcecode and 3D files for my keyboards along with some simple README :)
+source code and 3D files for my keyboards along with some simple README :)
 
 ### Non computer stuff
 
